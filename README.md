@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am a recent M.S. Bioinformatics graduate eager to enchance my skills in RNA-Seq.
+- 🔭 I am a recent M.S. Bioinformatics graduate eager to enchance my skills in RNA-Seq. I'm interested in neuroinformatics.
 -->
